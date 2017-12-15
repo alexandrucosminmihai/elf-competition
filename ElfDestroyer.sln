@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElfDestroyer", "ElfDestroyer\ElfDestroyer.csproj", "{46C8819F-F549-47E5-A364-59FB2CA81BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C8819F-F549-47E5-A364-59FB2CA81BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C8819F-F549-47E5-A364-59FB2CA81BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C8819F-F549-47E5-A364-59FB2CA81BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C8819F-F549-47E5-A364-59FB2CA81BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E77F13-C093-4D47-B4AF-DA22E2337D45}
+	EndGlobalSection
+EndGlobal
